@@ -1688,7 +1688,7 @@ Link
    :height: 740 px
    :width: 516 px
 
-Guida alla pubblicazione dei documenti della Pubblica Amministrazione su `Docs Italia <http://docs.italia/it>`_.
+Comune facile 
 
 .. toctree::
    :maxdepth: 2
