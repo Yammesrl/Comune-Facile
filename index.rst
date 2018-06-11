@@ -1,4 +1,6 @@
-Manuale Opencms
-###############
+Comune facile Yamme srl
+#######################
 
-Manuale per gli utenti
+La soluzione "facile" per il sito del tuo Comune. 
+Con un solo inserimento, aggiorni il sito, l'app e 
+invii automaticamente la newsletter.
