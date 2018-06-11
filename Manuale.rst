@@ -67,7 +67,7 @@
 |         `Testo <#h60367753e78321457d692551633630>`_
 |         `Immagini <#h2a4f1a56624f4d3211791e24215d472b>`_
 |         `Link <#h69193759306e5406a28415467f3475>`_
-| ` <#h2c1d74277104e41780968148427e>`_
+
 
 
 
@@ -1080,7 +1080,6 @@ Link
 
 * descrivere in modo coerente e puntuale quali sono le azioni svolte da tale link, bottone
 
-.. <#h2c1d74277104e41780968148427e>:
 
 .. bottom of content
 
