@@ -479,7 +479,7 @@ Gestione News
 .. _ha2b7d5b6147677266c6537604444e:
 
 Inserimento/modifica delle news:
---------------------------------
+================================
 
 Posizionarsi nella sezione del sito di news ed eventi
 
@@ -502,7 +502,7 @@ A questo punto si procede con la compilazione dei contenuti veri e propri della 
 .. _h3e7924732e5d6c61201c3c253c124b3d:
 
 Informazioni generali
----------------------
+=====================
 
 \ |IMG23|\ 
 
@@ -535,7 +535,7 @@ Nell’elenco a destra in home page,  vengono visualizzati solo alcune Notizie e
 .. _h56662531294b12704f2c29145349192b:
 
 Corpo della notizia
--------------------
+===================
 
 \ |IMG24|\ 
 
@@ -561,7 +561,7 @@ Per l’immagine può  essere definita la posizione rispetto al testo e l’even
 .. _h7968605f3a4649101b116c562338495d:
 
 Collegamenti
-------------
+============
 
 \ |IMG25|\ 
 
@@ -648,7 +648,7 @@ In seguito verrà chiesto di inserire il nome e il titolo della nuova galleria.
 .. _h2b244e4340347a30123f2185957759:
 
 Suddivisione delle cartelle documenti e immagini
-------------------------------------------------
+================================================
 
 Per facilitare all’utente la gestione delle gallery, sono state create preventivamente   Cartelle documenti e Cartelle immagini seguendo  la seguente logica:
 
@@ -745,7 +745,7 @@ In Explorer, per ogni cartella, \ |STYLE134|\  va scritto in sole lettere minusc
 .. _h77536272226398a6e2b5c60414d6a:
 
 Caricamento documenti/immagini
-------------------------------
+==============================
 
 Dal menu in alto, selezionare Upload. \ |IMG35|\  
 
@@ -1017,7 +1017,7 @@ Suggerimenti per una migliore comunicazione
 .. _h60367753e78321457d692551633630:
 
 Testo
------
+=====
 
 Per valorizzare ulteriormente i contenuti testuali, si debbono adottare alcuni accorgimenti:
 
@@ -1058,7 +1058,7 @@ Per valorizzare ulteriormente i contenuti testuali, si debbono adottare alcuni a
 .. _h2a4f1a56624f4d3211791e24215d472a:
 
 Immagini
---------
+========
 
 * Nominare le immagini in maniera pertinente (es. sindaco-mario-rossi.jpg)
 
@@ -1069,7 +1069,7 @@ Immagini
 .. _h69193759306e5406a28415467f3475:
 
 Link
-----
+====
 
 * Non usare mai la frase “clicca qui” per attivare un link.
 
