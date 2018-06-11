@@ -31,13 +31,16 @@
 |     `Creazione pagina Servizio/Procedimento <#h10637362481d29776b57361c4c6e66>`_
 |     `Creazione pagine ordinarie <#h716a1053643b68762f1c452423612a5f>`_
 |     `Creazione Luoghi <#h50125483d3d2817946766f869287f>`_
+|         `Inserimento /modifica di un Luogo <#h392f293b296e494a7b5b6246723ac3>`_
 |         `Info generali <#h538165ce2b72783d68392ac57136>`_
 |         `Posizione <#h3c7b2a1522737595666325e157a2028>`_
 |     `Creazione Rifiuti <#h652a53295552e2c6a797217584c2550>`_
+|         `Inserimento /modifica di un Rifiuto <#h5d95a4b1593a623a2d5520772a7a47>`_
 |         `Descrizione <#h572b241e5c316743143e261070681a>`_
 |         `Date di raccolta <#h4446354c4b43244b605944402b21696d>`_
 |     `Pubblicazione <#h1e2d5491f2539617e371c3f5936427e>`_
 | `Gestione News <#h60d3b6d4425764b2b6324231566e27>`_
+|         `Inserimento/modifica delle news: <#ha2b7d5b6147677266c6537604444e>`_
 |         `Informazioni generali <#h3e7924732e5d6c61201c3c253c124b3d>`_
 |         `Corpo della notizia <#h56662531294b12704f2c29145349192b>`_
 |         `Collegamenti <#h7968605f3a4649101b116c562338495d>`_
@@ -64,8 +67,7 @@
 |         `Testo <#h60367753e78321457d692551633630>`_
 |         `Immagini <#h2a4f1a56624f4d3211791e24215d472a>`_
 |         `Link <#h69193759306e5406a28415467f3475>`_
-
-
+| ` <#h2c1d74277104e41780968148427e>`_
 
 
 .. _h19667b1a5b2c5531b3ea1029465a2c:
@@ -327,7 +329,7 @@ Breve descrizione che si visualizza nella lista
 
 \ |STYLE52|\    Inserire la descrizione dettagliata del luogo per es.: 
 
-“Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
+“Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
 
 \ |STYLE55|\  
 
@@ -657,7 +659,7 @@ Per facilitare all’utente la gestione delle gallery, sono state create prevent
     N.B. Questa suddivisione non vale per l’Amministrazione Trasparente
 
 +-----------------------+-----------------------+
-|\ |STYLE127|\          |                       |
+|\ |STYLE127|\          |                       |
 +-----------------------+-----------------------+
 |\ |STYLE128|\          |\ |STYLE129|\          |
 +-----------------------+-----------------------+
@@ -709,7 +711,7 @@ Per facilitare all’utente la gestione delle gallery, sono state create prevent
 +-----------------------+-----------------------+
 |notiziari              |Notiziari              |
 +-----------------------+-----------------------+
-|\ |STYLE131|\          |                       |
+|\ |STYLE131|\          |                       |
 +-----------------------+-----------------------+
 |\ |STYLE132|\          |\ |STYLE133|\          |
 +-----------------------+-----------------------+
