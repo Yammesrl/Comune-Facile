@@ -65,8 +65,9 @@
 | `Creazione pagine vuote per uffici, servizi, pagine generiche (container page) <#h7c776b7c444e6361268443ff2f763>`_
 | `Suggerimenti per una migliore comunicazione <#h5a7b2954372830f13262e422f3f145f>`_
 |         `Testo <#h60367753e78321457d692551633630>`_
-|         `Immagini <#h2a4f1a56624f4d3211791e24215d472a>`_
+|         `Immagini <#h2a4f1a56624f4d3211791e24215d472b>`_
 |         `Link <#h69193759306e5406a28415467f3475>`_
+| ` <#h2c1d74277104e41780968148427e>`_
 
 
 
@@ -1055,7 +1056,7 @@ Per valorizzare ulteriormente i contenuti testuali, si debbono adottare alcuni a
 
 * Attenzione all’ortografia uso accenti e apostrofi
 
-.. _h2a4f1a56624f4d3211791e24215d472a:
+.. _h2a4f1a56624f4d3211791e24215d472b:
 
 Immagini
 --------
@@ -1079,6 +1080,7 @@ Link
 
 * descrivere in modo coerente e puntuale quali sono le azioni svolte da tale link, bottone
 
+.. <#h2c1d74277104e41780968148427e>:
 
 .. bottom of content
 
