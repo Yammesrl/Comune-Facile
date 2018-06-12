@@ -490,7 +490,7 @@ Gestione News
 .. _ha2b7d5b6147677266c6537604444e:
 
 Inserimento/modifica delle news:
---------------------------------
+================================
 
 Posizionarsi nella sezione del sito di news ed eventi
 
@@ -513,7 +513,7 @@ A questo punto si procede con la compilazione dei contenuti veri e propri della 
 .. _h3e7924732e5d6c61201c3c253c124b3d:
 
 Informazioni generali
----------------------
+=====================
 
 \ |IMG23|\ 
 
@@ -546,7 +546,7 @@ Nell’elenco a destra in home page,  vengono visualizzati solo alcune Notizie e
 .. _h56662531294b12704f2c29145349192b:
 
 Corpo della notizia
--------------------
+===================
 
 \ |IMG24|\ 
 
@@ -572,7 +572,7 @@ Per l’immagine può  essere definita la posizione rispetto al testo e l’even
 .. _h7968605f3a4649101b116c562338495d:
 
 Collegamenti
-------------
+============
 
 \ |IMG25|\ 
 
