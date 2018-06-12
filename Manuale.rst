@@ -67,7 +67,7 @@
 |         `Testo <#h60367753e78321457d692551633630>`_
 |         `Immagini <#h2a4f1a56624f4d3211791e24215d472a>`_
 |         `Link <#h69193759306e5406a28415467f3475>`_
-| ` <#h2c1d74277104e41780968148427e>`_
+
 
 
 .. _h19667b1a5b2c5531b3ea1029465a2c:
@@ -303,6 +303,11 @@ Creazione Luoghi
 
 \ |STYLE42|\ 
 
+.. _h392f293b296e494a7b5b6246723ac3:
+
+Inserimento /modifica di un Luogo
+---------------------------------
+
 Per creare un nuovo Luogo, procedere in questo modo:
 
 * sfiorare con il mouse il simbolo del mirino
@@ -329,7 +334,7 @@ Breve descrizione che si visualizza nella lista
 
 \ |STYLE52|\    Inserire la descrizione dettagliata del luogo per es.: 
 
-“Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
+“Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
 
 \ |STYLE55|\  
 
@@ -368,6 +373,12 @@ Creazione Rifiuti
 =================
 
 \ |STYLE61|\ 
+
+.. _h5d95a4b1593a623a2d5520772a7a47:
+
+Inserimento /modifica di un Rifiuto
+-----------------------------------
+
 Per creare un nuovo Rifiuto, procedere in questo modo:
 
 * sfiorare con il mouse il simbolo del mirino
@@ -479,7 +490,7 @@ Gestione News
 .. _ha2b7d5b6147677266c6537604444e:
 
 Inserimento/modifica delle news:
-================================
+--------------------------------
 
 Posizionarsi nella sezione del sito di news ed eventi
 
@@ -502,7 +513,7 @@ A questo punto si procede con la compilazione dei contenuti veri e propri della 
 .. _h3e7924732e5d6c61201c3c253c124b3d:
 
 Informazioni generali
-=====================
+---------------------
 
 \ |IMG23|\ 
 
@@ -535,7 +546,7 @@ Nell’elenco a destra in home page,  vengono visualizzati solo alcune Notizie e
 .. _h56662531294b12704f2c29145349192b:
 
 Corpo della notizia
-===================
+-------------------
 
 \ |IMG24|\ 
 
@@ -561,7 +572,7 @@ Per l’immagine può  essere definita la posizione rispetto al testo e l’even
 .. _h7968605f3a4649101b116c562338495d:
 
 Collegamenti
-============
+------------
 
 \ |IMG25|\ 
 
@@ -659,7 +670,7 @@ Per facilitare all’utente la gestione delle gallery, sono state create prevent
     N.B. Questa suddivisione non vale per l’Amministrazione Trasparente
 
 +-----------------------+-----------------------+
-|\ |STYLE127|\          |                       |
+|\ |STYLE127|\          |                       |
 +-----------------------+-----------------------+
 |\ |STYLE128|\          |\ |STYLE129|\          |
 +-----------------------+-----------------------+
@@ -711,7 +722,7 @@ Per facilitare all’utente la gestione delle gallery, sono state create prevent
 +-----------------------+-----------------------+
 |notiziari              |Notiziari              |
 +-----------------------+-----------------------+
-|\ |STYLE131|\          |                       |
+|\ |STYLE131|\          |                       |
 +-----------------------+-----------------------+
 |\ |STYLE132|\          |\ |STYLE133|\          |
 +-----------------------+-----------------------+
