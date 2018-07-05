@@ -9,3 +9,9 @@ Dal menu superiore, selezionare la voce: “Aree” e scegliere l’area di pert
    :maxdepth: 5
    
    modifica di una pagina d'ufficio già esistente.rst
+   creazione pagina ufficio.rst
+   creazione pagina servizio.rst
+   creazione pagine ordinarie.rst
+   creazione luoghi.rst
+   creazione rifiuti.rst
+   pubblicazione.rst
