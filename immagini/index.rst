@@ -8,4 +8,4 @@ Di seguito forniamo le più utilizzate:
 .. toctree::
     :maxdepth: 2
     immagini per notizie ed eventi.rst
-    formati consigliati per utte le immagini: jpg, gif e png.rst
+    formati consigliati per tutte le immagini: jpg, gif e png.rst
