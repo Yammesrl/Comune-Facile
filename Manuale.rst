@@ -379,7 +379,7 @@ Per creare un nuovo Rifiuto, procedere in questo modo:
 
     Per \ |STYLE66|\  un rifiuto, cliccare sul simbolo del \ |STYLE67|\ 
 
-A questo punto si procede con la compilazione dei contenuti veri e propri.
+ A questo punto si procede con la compilazione dei contenuti veri e propri.
 
 .. _h572b241e5c316743143e261070681a:
 
