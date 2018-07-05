@@ -323,7 +323,7 @@ Info generali
 \ |STYLE50|\  (settare il tipo dalla lista dei luoghi: Impianto sportivo, Biblioteca, Chiesa, Cinema/Teatro, Edificio, Farmacia, ecc )
 
 \ |STYLE51|\ 
-Breve descrizione che si visualizza nella lista
+ Breve descrizione che si visualizza nella lista
 
 \ |STYLE52|\    Inserire la descrizione dettagliata del luogo per es.: 
 
