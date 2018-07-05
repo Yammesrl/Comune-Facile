@@ -1,3 +1,8 @@
+.. _h19667b1a5b2c5531b3ea1029465a2c:
+
+Gestione di base del progetto
+*****************************
+
 .. _h262511183a6b5d4f16397864525b3d49:
 
 Accesso
@@ -26,3 +31,4 @@ A questo punto ci si trova  in Page editor ovvero l’area di gestione del sito:
 Si noterà subito, sotto al banner, la presenza di mirini, che sono i simboli di gestione caratteristici di Opencms 
 
 Il \ |STYLE5|\   identifica la possibilità di editare una qualsiasi sezione nel sito, altrimenti  in mancanza di questo, per eventuali modifiche, bisogna rivolgersi allo sviluppatore.
+
