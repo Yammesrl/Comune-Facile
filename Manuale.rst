@@ -307,9 +307,9 @@ Per creare un nuovo Luogo, procedere in questo modo:
 
 * cliccare sul simbolo \ |STYLE43|\   \ |STYLE44|\  
 
-    Per \ |STYLE45|\  un luogo già esistente, cliccare sul simbolo della \ |STYLE46|\  
+Per \ |STYLE45|\  un luogo già esistente, cliccare sul simbolo della \ |STYLE46|\  
 
-    Per \ |STYLE47|\  un luogo, cliccare sul simbolo del \ |STYLE48|\ 
+Per \ |STYLE47|\  un luogo, cliccare sul simbolo del \ |STYLE48|\ 
 
 A questo punto si procede con la compilazione dei contenuti veri e propri.
 
@@ -318,13 +318,21 @@ A questo punto si procede con la compilazione dei contenuti veri e propri.
 Info generali
 -------------
 
-\ |IMG15|\ \ |STYLE49|\   (ad esempio:  Campo da tennis)
+\ |IMG15|\ \ |STYLE49|\   
 
-\ |STYLE50|\  (settare il tipo dalla lista dei luoghi: Impianto sportivo, Biblioteca, Chiesa, Cinema/Teatro, Edificio, Farmacia, ecc )
+(ad esempio:  Campo da tennis)
 
-\ |STYLE51|\  Breve descrizione che si visualizza nella lista
+\ |STYLE50|\  
 
-\ |STYLE52|\  Inserire la descrizione dettagliata del luogo per es.: 
+(settare il tipo dalla lista dei luoghi: Impianto sportivo, Biblioteca, Chiesa, Cinema/Teatro, Edificio, Farmacia, ecc )
+
+\ |STYLE51|\  
+
+Breve descrizione che si visualizza nella lista
+
+\ |STYLE52|\  
+
+Inserire la descrizione dettagliata del luogo per es.: 
 
 “Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
 
