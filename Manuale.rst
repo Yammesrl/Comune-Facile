@@ -223,8 +223,7 @@ Analogamente per i \ |STYLE22|\  a siti web esterni o pagine interne verranno in
 \ |STYLE24|\  è il titolo del singolo collegamento 
 
 \ |STYLE25|\   L’indirizzo web, se esterno,  deve essere assoluto e preceduto  da  \ |STYLE26|\  
-se interno al sito, va inserito solo il percorso relativo omettendo \ |LINK2|\ 
-e inserendo solo il percorso della pagina : 
+se interno al sito, va inserito solo il percorso relativo omettendo \ |LINK2|\ e inserendo solo il percorso della pagina : 
 “ /comune/uffici-comunali/elenco-uffici/Ufficio-Segreteria-e-Affari-Generali/”
 
 .. _h375464312553742961f105f74a4221:
