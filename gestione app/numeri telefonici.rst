@@ -31,6 +31,8 @@ Una volta salvata la pagina e pubblicata, potrà essere visibile sull’applicaz
 
 .. |STYLE119| replace:: **eliminare**
 
+.. |STYLE120| replace:: **cestino**
+
 
 .. |IMG27| image:: immagini/Manuale_utente_sitoweb_10_5_7_26.png
    :height: 329 px
