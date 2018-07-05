@@ -28,3 +28,15 @@ In questo caso siamo di fronte a un \ |STYLE32|\  composto di diverse segmenti c
 .. |IMG11| image:: immagini/Manuale_utente_sitoweb_10_5_7_11.png
    :height: 361 px
    :width: 641 px
+
+.. |STYLE27| replace:: **evidenza 2**
+
+.. |STYLE28| replace:: **trascinamento**
+
+.. |STYLE29| replace:: **Ufficio,**
+
+.. |STYLE30| replace:: **il corretto posizionamento**
+
+.. |STYLE31| replace:: **.**
+
+.. |STYLE32| replace:: **modello**
