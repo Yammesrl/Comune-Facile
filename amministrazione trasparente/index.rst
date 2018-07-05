@@ -21,6 +21,9 @@ La prima cosa da fare è posizionarsi nella cartella esistente dell’alberatura
 
 .. toctree::
     :maxdepth: 2
+    
+    modifica contenuti pagina e aggiunta nuove sezioni di documenti.rst
+    creazione nuova cartella per i documenti.rst
 
 .. |IMG36| image:: immagini/Manuale_utente_sitoweb_10_5_7_35.png
    :height: 329 px
