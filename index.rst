@@ -32,5 +32,15 @@ Comune facile
    :maxdepth: 2
    :caption: Indice dei contenuti
    
+   gestione-di-base-del-progetto/index
+   pagine strutturate/index
+   gestione news/index
+   gestione app/index
+   gestione cartelle in area di lavoro/index
+   amministrazione trasparente/index
+   immagini/index
+   creazione pagine nuove per uffici- servizi- pagine generiche/index
+   suggerimenti per una migliore comunicazione/index
+   
 
    
