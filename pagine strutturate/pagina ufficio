@@ -1,14 +1,18 @@
-Creazione pagina ufficio
-========================
+Modifica di una pagina ufficio già esistente
+============================================
 
-Se si vuole aggiungere al portale un nuovo ufficio bisogna creare una pagina strutturata di tipo Ufficio
+Posizionarsi nella pagina ufficio da modificare.
 
-Per aggiungere una pagina ufficio si deve:
+Sfiorando con il mouse il simbolo del bersaglio che si trova nell’angolo in alto a destra, selezionare il simbolo della \ |STYLE6|\  che dà la possibilità di accedere alla pagina da modificare.
 
-* cliccare sul pulsante “Crea pagina” (evidenza 1) tasto “Bacchetta magica”
+In generale, la matita è lo strumento che consente l’attività di editing di qualsiasi oggetto in opencms (ufficio, servizi, pagine ordinarie ecc.)
 
-* tra i vari oggetti presenti, scegliere quello desiderato
+Cliccando sulla matita nella pagina ufficio, si è di fronte a un documento strutturato composto da diversi segmenti/tab che possono essere personalizzati e che corrispondono ai vari gruppi di informazioni che costituiscono l’ufficio.
 
-* trascinare l’oggetto desiderato all’interno della pagina vuota (\ |STYLE27|\ )
+* Riferimenti dell’ufficio
+
+* Orari di apertura
+
+* Allegati/Collegamenti
 
 
