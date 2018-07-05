@@ -12,4 +12,4 @@ Comune facile
    :maxdepth: 2
    :caption: Indice dei contenuti
 
-   Manuale.rst
+   
