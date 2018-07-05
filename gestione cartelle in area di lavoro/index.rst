@@ -19,6 +19,7 @@ In seguito verrà chiesto di inserire il nome e il titolo della nuova galleria.
 
 .. toctree::
     :maxdepth: 5
+    
     suddivisione delle cartelle documenti e immagini.rst
     caricamento documenti e immagini.rst
     
