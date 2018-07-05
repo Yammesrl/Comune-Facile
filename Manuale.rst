@@ -322,10 +322,9 @@ Info generali
 
 \ |STYLE50|\  (settare il tipo dalla lista dei luoghi: Impianto sportivo, Biblioteca, Chiesa, Cinema/Teatro, Edificio, Farmacia, ecc )
 
-\ |STYLE51|\ 
- Breve descrizione che si visualizza nella lista
+\ |STYLE51|\  Breve descrizione che si visualizza nella lista
 
-\ |STYLE52|\    Inserire la descrizione dettagliata del luogo per es.: 
+\ |STYLE52|\  Inserire la descrizione dettagliata del luogo per es.: 
 
 “Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
 
