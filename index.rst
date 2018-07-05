@@ -29,7 +29,7 @@ invii automaticamente la newsletter.
 Comune facile 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Indice dei contenuti
    
    gestione-di-base-del-progetto/index
