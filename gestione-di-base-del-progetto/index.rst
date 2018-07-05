@@ -32,6 +32,18 @@ Il \ |STYLE5|\   identifica la possibilità di editare una qualsiasi sezione nel
 .. |IMG3| image:: immagini/Manuale_utente_sitoweb_10_5_7_3.png
 .. |IMG4| image:: immagini/Manuale_utente_sitoweb_10_5_7_4.png
 .. |IMG5| image:: immagini/Manuale_utente_sitoweb_10_5_7_5.png
+.. |LINK1| raw:: html
+
+    <a href="http://www.comune.nomecomune.bg.it/system/login" target="_blank">http://www.comune.nomecomune.bg.it/system/login</a>
+.. |STYLE1| replace:: **Esplora risorse**
+
+.. |STYLE2| replace:: **navicella**
+
+.. |STYLE3| replace:: **mirino**
+
+.. |STYLE4| replace:: **Page editor .**
+
+.. |STYLE5| replace:: **mirino**
 
 
 
