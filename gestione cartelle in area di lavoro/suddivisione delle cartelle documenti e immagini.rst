@@ -110,6 +110,8 @@ In Explorer, per ogni cartella, \ |STYLE134|\  va scritto in sole lettere minusc
 
 .. |STYLE134| replace:: **Name**
 
+.. |STYLE135| replace:: **Title**
+
 
 .. |IMG34| image:: immagini/Manuale_utente_sitoweb_10_5_7_33.png
    :height: 273 px
