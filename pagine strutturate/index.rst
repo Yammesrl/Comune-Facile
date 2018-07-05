@@ -1,5 +1,5 @@
-Pagine strutturate (Ufficio, Servizio)
-**************************************
+Pagine strutturate
+******************
 
 Per i portali organizzati in aree, (es. Politiche sociali, scuola, edilizia, urbanistica e commercio, ambiente e territorio, tributi ) qualsiasi tipo di contenuto va analizzato e  posizionato  nell’area specifica.
 
