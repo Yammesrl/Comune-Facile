@@ -157,7 +157,7 @@ se interno al sito, va inserito solo il percorso relativo omettendo \ |LINK2|\  
 
 .. |STYLE25| replace:: **Url del collegamento:**
 
-.. |STYLE26| replace:: **https:// **
+.. |STYLE26| replace:: **https://**
 
 
 .. |LINK2| raw:: html
