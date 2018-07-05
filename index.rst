@@ -1,4 +1,4 @@
-\ |IMG0|\ 
+\ |IMG1|\ 
 
 +----------------+
 |Pagina 0 di 40  |
@@ -16,6 +16,8 @@
 |                         |
 +-------------------------+
 
+.. |IMG1| image:: static/Manuale_utente_sitoweb_10_5_7_1.png
+
 Comune facile
 #############
 
@@ -29,5 +31,6 @@ Comune facile
 .. toctree::
    :maxdepth: 2
    :caption: Indice dei contenuti
+   
 
    
