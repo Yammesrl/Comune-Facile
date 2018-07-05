@@ -17,7 +17,10 @@ In seguito verrà chiesto di inserire il nome e il titolo della nuova galleria.
 
 \ |IMG33|\ 
 
-
+.. toctree::
+    :maxdepth: 2
+    suddivisione delle cartelle documenti e immagini.rst
+    
 
 .. |IMG31| image:: immagini/Manuale_utente_sitoweb_10_5_7_30.png
    :height: 418 px
