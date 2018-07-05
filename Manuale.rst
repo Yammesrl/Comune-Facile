@@ -364,8 +364,6 @@ Es. Telefono (etichetta) 035 333333 (dato)
 Creazione Rifiuti
 =================
 
-\ |STYLE61|\ 
-
 .. _h5d95a4b1593a623a2d5520772a7a47:
 
 Inserimento /modifica di un Rifiuto
@@ -394,10 +392,9 @@ Descrizione
 
 \ |STYLE69|\  scegliere  un’immagine o una foto sul tipo di rifiuto es. bidoni, cassonetti, tipo rifiuto particolare ecc )
 
-\ |STYLE70|\ 
-Descrizione del rifiuto
+\ |STYLE70|\  Descrizione del rifiuto
 
-\ |STYLE71|\    Descrizione di cosa non va messo
+\ |STYLE71|\  Descrizione di cosa non va messo
 
 \ |STYLE72|\ 
 
@@ -411,7 +408,7 @@ Modalità temporali: es. tutti i venerdì oppure periodo invernale.
 
 * Pe i comuni con più zone da selezionare, va preventivamente compilato l’oggetto “zona” entrando in Explorer, nella cartella : /.categories/zona-rifiuti/ dove si possono creare e gestire le cartelle coi nomi delle varie zone rifiuto (es. zona nord oppure  centro città, area industriale)
 
-    A questo punto dopo aver creato i vari oggetti “zona” è possibile selezionare  la zona della città  dal menu a tendina nell’editor di testo.
+A questo punto dopo aver creato i vari oggetti “zona” è possibile selezionare  la zona della città  dal menu a tendina nell’editor di testo.
 
 \ |STYLE74|\ 
 
