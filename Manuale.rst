@@ -349,17 +349,23 @@ L’immagine deve essere caricata nel progetto e quindi richiamata all’interno
 Posizione
 ---------
 
-\ |STYLE57|\   (ad esempio:  via C. Nembrini) Quanto scritto sarà visibile nella pagina principale
+\ |STYLE57|\   
+
+(ad esempio:  via C. Nembrini) Quanto scritto sarà visibile nella pagina principale
 
 \ |IMG16|\ 
 
-\ |STYLE58|\  Cliccando sul simbolo della cartella a destra si visualizza una mappa:
+\ |STYLE58|\  
+
+Cliccando sul simbolo della cartella a destra si visualizza una mappa:
 
 \ |IMG17|\ 
 
 Digitando l’indirizzo, verranno visualizzati  in automatico dei suggerimenti per aiutare nella compilazion. Una volta scelto l’indirizzo verranno visualizzate latitudine e longitudine
 
-\ |STYLE59|\  In questa sezione possono essere aggiunti  il Nome del Contatto  e tutti i riferimenti che si vogliono evidenziare (indirizzo, E-mail, telefono).
+\ |STYLE59|\ 
+
+In questa sezione possono essere aggiunti  il Nome del Contatto  e tutti i riferimenti che si vogliono evidenziare (indirizzo, E-mail, telefono).
 
 I riferimenti sono modulari: lo strumento permette di aggiungere, togliere, modificare, spostare di ordine ogni singolo riferimento composto di una Etichetta e di un dato.
 
