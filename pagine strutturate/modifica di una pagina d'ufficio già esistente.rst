@@ -101,19 +101,19 @@ se interno al sito, va inserito solo il percorso relativo omettendo \ |LINK2|\  
 “ /comune/uffici-comunali/elenco-uffici/Ufficio-Segreteria-e-Affari-Generali/”
 
 
-.. |IMG6| image:: static/Manuale_utente_sitoweb_10_5_7_6.png
+.. |IMG6| image:: immagini/Manuale_utente_sitoweb_10_5_7_6.png
    :height: 309 px
    :width: 600 px
 
-.. |IMG7| image:: static/Manuale_utente_sitoweb_10_5_7_7.png
+.. |IMG7| image:: immagini/Manuale_utente_sitoweb_10_5_7_7.png
    :height: 125 px
    :width: 306 px
 
-.. |IMG8| image:: static/Manuale_utente_sitoweb_10_5_7_8.png
+.. |IMG8| image:: immagini/Manuale_utente_sitoweb_10_5_7_8.png
    :height: 202 px
    :width: 641 px
 
-.. |IMG9| image:: static/Manuale_utente_sitoweb_10_5_7_9.png
+.. |IMG9| image:: immagini/Manuale_utente_sitoweb_10_5_7_9.png
    :height: 256 px
    :width: 641 px
    
