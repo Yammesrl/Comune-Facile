@@ -281,9 +281,7 @@ Per aggiungere una pagina  ordinaria in un qualsiasi punto del sito si deve:
 
 * tra i vari oggetti presenti, scegliere quello desiderato
 
-* trascinare l’oggetto desiderato all’interno della pagina vuota (\ |STYLE37|\ )
-* 
-* 
+* trascinare l’oggetto desiderato all’interno della pagina vuota (\ |STYLE37|\ ) 
 
 \ |IMG13|\ 
 
@@ -297,8 +295,6 @@ In questo caso siamo di fronte a un documento strutturato simile a quelli preced
 
 Creazione Luoghi
 ================
-
-\ |STYLE42|\ 
 
 .. _h392f293b296e494a7b5b6246723ac3:
 
