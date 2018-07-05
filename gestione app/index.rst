@@ -15,5 +15,5 @@ Dalla voce di menu \ |STYLE114|\   (non visibile online),  è possibile gestire 
 .. toctree::
     :maxdepth: 2
     
-    numeritelefonici.rst
+    numeri telefonici.rst
     notifiche.rst
