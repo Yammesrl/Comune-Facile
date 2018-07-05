@@ -6,7 +6,7 @@ Accesso
 
 Per collegarsi al progetto opencms, digitare nella barra degli indirizzi del browser il seguente percorso: 
 
-|dashboard_link|  
+\ |LINK1|\  
 
 \ |IMG2|\ 
 
