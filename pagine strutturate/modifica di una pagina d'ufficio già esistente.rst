@@ -117,7 +117,7 @@ se interno al sito, va inserito solo il percorso relativo omettendo \ |LINK2|\  
    :height: 256 px
    :width: 641 px
    
-   .. |STYLE6| replace:: **matita**
+.. |STYLE6| replace:: **matita**
 
 .. |STYLE7| replace:: **+**
 
