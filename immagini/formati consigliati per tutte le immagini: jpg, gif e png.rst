@@ -1,7 +1,7 @@
 Formati consigliati per tutte le immagini: jpg, gif e png
 =========================================================
 
-* In particolare jpg è  ottimale per le foto –
+* In particolare jpg è  ottimale per le foto 
 
 * gif e png  sono ottimali per i disegni
 
