@@ -14,7 +14,7 @@ Dopo aver inserito le proprie credenziali nella finestra di accesso,  il sito de
 
 \ |IMG3|\ 
 
-L’area di lavoro ricorda \ |STYLE1|\ di Windows perché tutte le voci di menu presenti nel sito vengono qui visualizzate sotto forma di cartelle e file.
+L’area di lavoro ricorda \ |STYLE1|\  di Windows perché tutte le voci di menu presenti nel sito vengono qui visualizzate sotto forma di cartelle e file.
 
 Dall’area di lavoro  Explorer, per passare alla visualizzazione del sito in modalità offline, cliccare sul simbolo della \ |STYLE2|\   sul menu in alto a destra e accedere dal  \ |STYLE3|\  in \ |STYLE4|\ 
 
