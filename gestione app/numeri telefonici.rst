@@ -5,9 +5,9 @@ Posizionarsi in Gestione e cliccare su Numeri telefonici
 
 Per creare un nuovo numero telefonico, procedere in questo modo:
 
-* sfiorare con il mouse il simbolo del mirino 
+  * sfiorare con il mouse il simbolo del mirino 
 
-* cliccare sul simbolo \ |STYLE115|\   \ |STYLE116|\  
+  * cliccare sul simbolo \ |STYLE115|\   \ |STYLE116|\  
 
 #. Per \ |STYLE117|\  un numero già esistente, cliccare sul simbolo della \ |STYLE118|\  
 
