@@ -33,7 +33,7 @@ Breve descrizione che si visualizza nella lista
 
 \ |STYLE52|\  
 
-Inserire la descrizione dettagliata del luogo per es.: 
+Inserire la descrizione dettagliata del luogo per es. : 
 
 “Il centro  dispone di \ |STYLE53|\  in terra rossa, di cui 1 coperto. C'è inoltre un \ |STYLE54|\ , coperto, in cui è possibile giocare anche la sera grazie all'impianto di illuminazione artificiale. Gli spogliatoi sono tre (escluso quello per l'arbitro), luminosi e spaziosi.”
 
