@@ -28,7 +28,7 @@ Per valorizzare ulteriormente i contenuti testuali, si debbono adottare alcuni a
 
 * Il sommario delle notizie in homepage dovrebbe essere un periodo di senso compiuto, senza punti di sospensione finali.
 
-* Il sommario sintetizza al lettore l'oggetto dell'articolo e non deve superare i 140caratteri.
+* Il sommario sintetizza al lettore l'oggetto dell'articolo e non deve superare i 140 caratteri.
 
 * Il sommario deve essere diverso dal titolo e dalle prime righe del contenuto della pagina interna
 
