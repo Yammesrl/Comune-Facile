@@ -3,7 +3,6 @@ Creazione nuova cartella per i documenti
 
 In caso si dovesse creare una nuova cartella di documenti, che non è presente tra quelle esistenti, posizionarsi nel punto dell’alberatura dove si intende creare una nuova cartella, cliccare sul simbolo della bacchetta magica nel menu in alto a sinistra. 
 
-La finestra sottostante viene visualizzata.
 
 \ |IMG45|\ 
 
